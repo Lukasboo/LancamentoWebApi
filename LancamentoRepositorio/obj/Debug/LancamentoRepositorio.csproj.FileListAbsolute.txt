@@ -1,0 +1,5 @@
+c:\users\lucas\documents\visual studio 2017\Projects\LancamentoApi\LancamentoRepositorio\bin\Debug\LancamentoRepositorio.dll
+c:\users\lucas\documents\visual studio 2017\Projects\LancamentoApi\LancamentoRepositorio\bin\Debug\LancamentoRepositorio.pdb
+c:\users\lucas\documents\visual studio 2017\Projects\LancamentoApi\LancamentoRepositorio\obj\Debug\LancamentoRepositorio.dll
+c:\users\lucas\documents\visual studio 2017\Projects\LancamentoApi\LancamentoRepositorio\obj\Debug\LancamentoRepositorio.pdb
+c:\users\lucas\documents\visual studio 2017\Projects\LancamentoApi\LancamentoRepositorio\obj\Debug\LancamentoRepositorio.csprojResolveAssemblyReference.cache
